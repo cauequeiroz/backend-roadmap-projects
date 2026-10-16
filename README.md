@@ -9,7 +9,7 @@ The goal is to practice backend development concepts, explore different technolo
 ### Beginner
 
 - [x] **Task Tracker** — [Project](https://roadmap.sh/projects/task-tracker) | [Source Code](./task-tracker)
-- [ ] **GitHub User Activity** — [Project](https://roadmap.sh/projects/github-user-activity) | Source Code
+- [x] **GitHub User Activity** — [Project](https://roadmap.sh/projects/github-user-activity) | [Source Code](./github-user-activity)
 - [ ] **Expense Tracker** — [Project](https://roadmap.sh/projects/expense-tracker) | Source Code
 - [ ] **Number Guessing Game** — [Project](https://roadmap.sh/projects/number-guessing-game) | Source Code
 - [ ] **Unit Converter** — [Project](https://roadmap.sh/projects/unit-converter) | Source Code
